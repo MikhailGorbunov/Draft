@@ -1,4 +1,4 @@
-# ScranScanner: Restaurant Booking Mobile App
+# ShakeIt: Cocktail recipes Mobile App
 <b> Contributors: [Oliwia](https://github.com/Olive-kaa), [Ben](https://github.com/bsmith), 
 [Gintare](https://github.com/GINTARE07) & [Mikhail](https://github.com/MikhailGorbunov) </b>
 
@@ -42,30 +42,39 @@ These are the main technologies we used to contruct the project.
 
 
 ## Brief
+Our initial brief was extremely ambitious, due to the face we underestimated the challenges we would encounter using React Native. Below is a revised version of that brief!
 
 **MVP**
 
-- [ ] Be able to search cocktail recepie by name
-- [ ] Be able to leave a comment under each recepie 
-- [ ] have a two color scheme (dark and light) 
-- [ ] add a cloud (Firebase) ![Firebase]
-- [ ] Use safe packages to be able to upload the app to google play
+- [ ] display recipes (with images)
+- [ ] Be able to search cocktail recipe by name
+- [ ] Be able to leave a comment under each recipe 
+- [ ] have a two color scheme being both accessible (dark and light)
+- [ ] data is stored in database
 
+<!-- API find or make -->
 
 **Extensions **
 
 Some of the features currently in progress:
 
 
-- [ ] Be able to loggin 
-- [ ] Be able to search cocktail recepie by ingredient
-- [ ] Be able to add recepie to a planner 
-- [ ] Be able to add recepie to a list(shopping list)
-- [ ] Be able to customize recepie
+- [ ] comments have tags 
+- [ ] recipe can be searched by the tag
+- [ ] Be able to search cocktail recipe by ingredient
+- [ ] Calculate recipe portion 
+- [ ] Be able to login 
+- [ ] Be able to customize (
+- [ ] Be able to add recipe to a list(shopping list)
+- [ ] Be able to customize recipe
 
 **Super Extensions **
 - [ ] Create a shopping bot 
+- [ ] Be able to add recipe to a party planner 
 - [ ] Create an email invitation
+- [ ] add a cloud (Firebase) ![Firebase]
+- [ ] Be able to make their own recipe 
+- [ ] To be able to upload the app to google play
 
 <br>
 
