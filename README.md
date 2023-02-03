@@ -1,18 +1,19 @@
 # ScranScanner: Restaurant Booking Mobile App
-<b> Contributors: [Sam](https://github.com/SamuelSeFe), [Lawrie](https://github.com/LawrieCarly), 
-[Ethan](https://github.com/ethanBaird) & [Jack](https://github.com/knowles28) </b>
+<b> Contributors: [Oliwia](https://github.com/Olive-kaa), [Ben](https://github.com/bsmith), 
+[Gintare](https://github.com/GINTARE07) & [Mikhail](https://github.com/MikhailGorbunov) </b>
 
 
 
+A full stack React Native mobile application (Android/iOS) that allows users to install on an Android phone, be able to search for a cocktail recipe...  
 
-A full stack React Native mobile application (Android/iOS) that allows users to make restaurant bookings through their unique profile. They can browse restaurant availability, create/review/delete bookings, as well as adding restaurants to their favourites. The backend is built in Java with Spring.
+<!-- restaurant bookings through their unique profile. They can browse restaurant availability, create/review/delete bookings, as well as adding restaurants to their favourites. The backend is built in Java with Spring. -->
 
-🚧 <b> NB: This is app has reached its MVP, but is still under construction</b> 🚧
+<!-- 🚧 <b> NB: This is app has reached its MVP, but is still under construction</b> 🚧 -->
 
 
 ## Contents 
 
-* [Video](#video)
+* [Showcase](#showcase)
 * [Technologies](#technologies)
 * [Brief](#brief)
 * [Challenges](#challenges)
@@ -21,15 +22,7 @@ A full stack React Native mobile application (Android/iOS) that allows users to 
 <br>
 
 
-## Video
-
-
-
-
-https://user-images.githubusercontent.com/106395506/194923147-4f4a7d97-f091-4229-a005-435c19fe5864.mp4
-
-
-
+## Showcase
 
 <br>
 
@@ -50,16 +43,16 @@ These are the main technologies we used to contruct the project.
 
 ## Brief
 
-Our initial brief was extremely ambitious, due to the face we underestimated the challenges we would encounter using React Native. Below is a revised version of that brief!
-
 **MVP**
-
-A user should be able to:
 
 - [x] Use filtered searches to check available tables at several restaurants
 - [x] Book tables depending on restaurant availability
 - [x] Review & delete any existing bookings
 - [x] Add & remove restaurants to favourite list
+- [ ] Be able to search cocktail recepie 
+- [ ] Be able to leave a comment under each recepie 
+- [ ] have a two color scheme (dark and light) 
+- [ ] add a cloud (Firebase) ![Firebase]
 
 
 **Extensions **
@@ -72,7 +65,12 @@ Some of the features currently in progress:
 - [ ] Restaurants can respond to reviews
 - [ ] Push notifications for customers when tables become available (at favourite restaurant)
 - [ ] Multiple (human) languages
+- [ ] Be able to loggin 
+- [ ] Be able to add recepie to a planner 
+- [ ] Be able to add recepie to a list(shopping list)
+- [ ] Be able to customize recepie
 
+**Super Extensions **
 <br>
 
 ## Challenges
@@ -107,3 +105,5 @@ Note: This setup tutorial assumes that you already have installed a package mana
 [Hibernate]:https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
 [PostgreSQL]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [IntelliJ_IDEA]: https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+
+[Firebase]:https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg
