@@ -45,7 +45,7 @@ These are the main technologies we used to contruct the project.
 
 **MVP**
 
-- [ ] Be able to search cocktail recepie 
+- [ ] Be able to search cocktail recepie by name
 - [ ] Be able to leave a comment under each recepie 
 - [ ] have a two color scheme (dark and light) 
 - [ ] add a cloud (Firebase) ![Firebase]
@@ -56,7 +56,9 @@ These are the main technologies we used to contruct the project.
 
 Some of the features currently in progress:
 
+
 - [ ] Be able to loggin 
+- [ ] Be able to search cocktail recepie by ingredient
 - [ ] Be able to add recepie to a planner 
 - [ ] Be able to add recepie to a list(shopping list)
 - [ ] Be able to customize recepie
