@@ -45,32 +45,26 @@ These are the main technologies we used to contruct the project.
 
 **MVP**
 
-- [x] Use filtered searches to check available tables at several restaurants
-- [x] Book tables depending on restaurant availability
-- [x] Review & delete any existing bookings
-- [x] Add & remove restaurants to favourite list
 - [ ] Be able to search cocktail recepie 
 - [ ] Be able to leave a comment under each recepie 
 - [ ] have a two color scheme (dark and light) 
 - [ ] add a cloud (Firebase) ![Firebase]
+- [ ] Use safe packages to be able to upload the app to google play
 
 
 **Extensions **
 
 Some of the features currently in progress:
 
-- [x] Multiple users should be able to log in to the app
-- [ ] Restaurants should be able to log into a separate dashboard to customers
-- [ ] Customer can search for restaurants nearby with location tracking
-- [ ] Restaurants can respond to reviews
-- [ ] Push notifications for customers when tables become available (at favourite restaurant)
-- [ ] Multiple (human) languages
 - [ ] Be able to loggin 
 - [ ] Be able to add recepie to a planner 
 - [ ] Be able to add recepie to a list(shopping list)
 - [ ] Be able to customize recepie
 
 **Super Extensions **
+- [ ] Create a shopping bot 
+- [ ] Create an email invitation
+
 <br>
 
 ## Challenges
