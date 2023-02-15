@@ -39,10 +39,11 @@ These are the main technologies we used to contruct the project.
 
 * ![ReactNative]
 * ![Java]
-* ![Spring]
-* ![Hibernate]
-* ![PostgreSQL]
-* ![IntelliJ_IDEA]
+<!-- * ![Spring] -->
+<!-- * ![Hibernate] -->
+<!-- * ![PostgreSQL] -->
+<!-- * ![IntelliJ_IDEA] -->
+* ![Firebase]
 
 <br>
 
@@ -53,10 +54,10 @@ Our initial brief was extremely ambitious, so as our team. Together through lear
 **MVP**
 
 
-- [ ] Display recipes (with images)
-- [*] Be able to search cocktail recipe by name
-- [ ] Data is stored in a database accessible through a RESTful API
-- [ ] Have a README file with screenshots/videos and running instructions.
+- [x] Display recipes (with images)
+- [x] Be able to search cocktail recipe by name
+- [x] Data is stored in a database accessible through a RESTful API
+- [x] Have a README file with screenshots/videos and running instructions.
 
 <!-- API find or make -->
 
@@ -64,21 +65,21 @@ Our initial brief was extremely ambitious, so as our team. Together through lear
 
 Some of the features currently in progress:
 
-- [ ] Be able to leave a comment under each recipe
-- [ ] Have a two colour scheme being both accessible (dark and light)
-- [ ] Comments have tags 
-- [ ] Recipe can be searched by the tag
-- [ ] Be able to search cocktail recipe by ingredient
-- [ ] Calculate recipe portion 
-- [ ] Be able to login 
-- [ ] Be able to add recipe to a shopping list
+- [x] Be able to leave a comment under each recipe
+- [x] Have a two colour scheme being both accessible (dark and light)
+- [x] Comments have tags 
+- [x] Recipe can be searched by the tag
+- [x] Be able to search cocktail recipe by ingredient
+- [x] Calculate recipe portion 
+- [x] Be able to login 
+- [x] Be able to add recipe to a shopping list
 - [ ] Be able to customize recipe
 
 **Super Extensions **
 - [ ] Create a shopping bot 
 - [ ] Be able to add recipe to a party planner 
 - [ ] Create an email invitation
-- [ ] Add a cloud (Firebase) ![Firebase]
+- [x] Add a cloud (Firebase)
 - [ ] Be able to make their own recipe 
 - [ ] To be able to upload the app to google play
 
