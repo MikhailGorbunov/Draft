@@ -4,7 +4,7 @@
 
 
 
-A full stack React Native mobile application (Android) that allows users to install on an Android phone, be able to search for a cocktail recipe, leave a comment, and (as an extension) personalise the experience . We will use Spring and a PostgreSQL database to store the recipe and user data.
+A full stack React Native mobile application (Android) that allows users to install it on an Android phone, be able to search for a cocktail recipe, leave a comment, and (as an extension) personalise the experience . We will use Firebase database to store the recipe and user data.
 
 <!-- restaurant bookings through their unique profile. They can browse restaurant availability, create/review/delete bookings, as well as adding restaurants to their favourites. The backend is built in Java with Spring. -->
 
