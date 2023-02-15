@@ -53,8 +53,8 @@ Our initial brief was extremely ambitious, so as our team. Together through lear
 **MVP**
 
 
-- [.] Display recipes (with images)
-- [.] Be able to search cocktail recipe by name
+- [ ] Display recipes (with images)
+- [*] Be able to search cocktail recipe by name
 - [ ] Data is stored in a database accessible through a RESTful API
 - [ ] Have a README file with screenshots/videos and running instructions.
 
