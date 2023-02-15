@@ -13,6 +13,7 @@ A full stack React Native mobile application (Android) that allows users to inst
 
 ## Contents 
 
+* [Idea](#idea)
 * [Showcase](#showcase)
 * [Technologies](#technologies)
 * [Brief](#brief)
@@ -21,6 +22,11 @@ A full stack React Native mobile application (Android) that allows users to inst
 
 <br>
 
+## Idea
+
+Every day the human body needs food and water. Therefore, people either cook or order food online. To cook, you need to find food recipes make a shopping list, and tick each item in the list while shopping. You can use pen and paper but it's not environmentally friendly. You can type in your phone's notes but it takes some effort. That's the time when users load an app. And for food recipes, there are plenty of apps. But what about cocktails?
+
+<br>
 
 ## Showcase
 
