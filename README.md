@@ -48,14 +48,13 @@ These are the main technologies we used to contruct the project.
 
 
 ## Brief
-Our initial brief was extremely ambitious, due to the face we underestimated the challenges we would encounter using React Native. Below is a revised version of that brief!
+Our initial brief was extremely ambitious, so as our team. Together through learning from scratch react native liblary and firebase database we have managed in two weeks time to accomplish the following tasks (shown bellow)
 
 **MVP**
 
 
-- [ ] Display recipes (with images)
-- [ ] Be able to search cocktail recipe by name
-- [ ] Be able to leave a comment under each recipe 
+- [.] Display recipes (with images)
+- [.] Be able to search cocktail recipe by name
 - [ ] Data is stored in a database accessible through a RESTful API
 - [ ] Have a README file with screenshots/videos and running instructions.
 
