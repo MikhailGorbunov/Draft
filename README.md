@@ -76,10 +76,11 @@ Some of the features currently in progress:
 - [ ] Be able to customize recipe
 
 **Super Extensions **
+
+- [x] Add a cloud (Firebase)
 - [ ] Create a shopping bot 
 - [ ] Be able to add recipe to a party planner 
 - [ ] Create an email invitation
-- [x] Add a cloud (Firebase)
 - [ ] Be able to make their own recipe 
 - [ ] To be able to upload the app to google play
 
