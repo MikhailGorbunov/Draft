@@ -39,22 +39,22 @@ These are the main technologies we used to contruct the project.
 
 * ![ReactNative]
 * ![Java]
-* 
-* expo
+* ![java]
+* ![JavaScript]
 * ![Tailwind]
+* 
 <!-- * ![Spring] -->
 <!-- * ![Hibernate] -->
 <!-- * ![PostgreSQL] -->
 <!-- * ![IntelliJ_IDEA] -->
 * ![Firebase]
-* 
 * ![stats]
 
 <br>
 
 
 ## Brief
-Our initial brief was extremely ambitious, so as our team. Together through learning from scratch react native liblary and firebase database we have managed in two weeks time to accomplish the following tasks (shown bellow)
+Our initial brief was extremely ambitious, so as our team. Together through learning from scratch react native liblary and firebase database we have managed in two weeks time to accomplish the following tasks (shown bellow).
 
 **MVP**
 
@@ -128,3 +128,5 @@ Note: This setup tutorial assumes that you already have installed a package mana
 [stats]:https://img.shields.io/tokei/lines/github/bsmith/ShakeIt
 [Tailwind]:https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Firebase]:https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg
+[JavaScipt]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[java]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
