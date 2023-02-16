@@ -37,9 +37,9 @@ Every day the human body needs food and water. Therefore, people either cook or 
 
 These are the main technologies we used to contruct the project.
 
+* ![stats]
 * ![ReactNative]
 * ![Java]
-* ![java]
 * ![JavaScript]
 * ![Tailwind]
 * 
@@ -48,7 +48,7 @@ These are the main technologies we used to contruct the project.
 <!-- * ![PostgreSQL] -->
 <!-- * ![IntelliJ_IDEA] -->
 * ![Firebase]
-* ![stats]
+
 
 <br>
 
