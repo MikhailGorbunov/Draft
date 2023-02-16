@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/68015812/219238174-daa9a780-0a9b-4181-9bae-3babc42f3f1d.mp4
+
 # ShakeIt: Cocktail recipes Mobile App
 <b> Contributors: [Oliwia](https://github.com/Olive-kaa), [Ben](https://github.com/bsmith), 
 [Gintare](https://github.com/GINTARE07) & [Mikhail](https://github.com/MikhailGorbunov) </b>
@@ -31,6 +35,10 @@ Every day the human body needs food and water. Therefore, people either cook or 
 ## Showcase
 
 https://www.youtube.com/watch?v=WsNRsFLqt1Y&t=1s
+
+
+https://user-images.githubusercontent.com/68015812/219238487-7fe6d5c0-e4b5-430f-aaf6-7c4bf5910944.mp4
+
 
 <br>
 
