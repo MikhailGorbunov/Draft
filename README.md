@@ -42,11 +42,6 @@ These are the main technologies we used to contruct the project.
 * ![Java]
 * ![JavaScript]
 * ![Tailwind]
-* 
-<!-- * ![Spring] -->
-<!-- * ![Hibernate] -->
-<!-- * ![PostgreSQL] -->
-<!-- * ![IntelliJ_IDEA] -->
 * ![Firebase]
 
 
