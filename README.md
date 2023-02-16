@@ -48,6 +48,7 @@ https://www.youtube.com/watch?v=WsNRsFLqt1Y&t=1s
 These are the main technologies we used to contruct the project.
 
 * ![stats]
+* ![Spring]
 * ![ReactNative]
 * ![Java]
 * ![JavaScript]
