@@ -53,7 +53,7 @@ These are the main technologies we used to contruct the project.
 * ![Java]
 * ![JavaScript]
 * ![Tailwind]
-* ![Firebase]
+* ![Firebase] used for database and authentication
 
 
 <br>
