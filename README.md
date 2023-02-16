@@ -39,6 +39,7 @@ These are the main technologies we used to contruct the project.
 
 * ![ReactNative]
 * ![Java]
+* 
 * expo
 * Tailwind
 <!-- * ![Spring] -->
@@ -46,7 +47,8 @@ These are the main technologies we used to contruct the project.
 <!-- * ![PostgreSQL] -->
 <!-- * ![IntelliJ_IDEA] -->
 * ![Firebase]
-* https://img.shields.io/tokei/lines/github/bsmith/ShakeIt
+* 
+* ![stats]
 
 <br>
 
@@ -116,11 +118,13 @@ Note: This setup tutorial assumes that you already have installed a package mana
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
-[ReactNative]:https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+<!-- [ReactNative]:https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB -->
 [Java]:https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
 [Spring]:https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 [Hibernate]:https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white
 [PostgreSQL]:https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 [IntelliJ_IDEA]: https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
+[ReactNative]:https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[stats]:https://img.shields.io/tokei/lines/github/bsmith/ShakeIt
 
 [Firebase]:https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg
