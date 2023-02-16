@@ -46,6 +46,7 @@ These are the main technologies we used to contruct the project.
 <!-- * ![PostgreSQL] -->
 <!-- * ![IntelliJ_IDEA] -->
 * ![Firebase]
+* https://img.shields.io/tokei/lines/github/bsmith/ShakeIt
 
 <br>
 
