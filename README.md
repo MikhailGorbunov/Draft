@@ -20,8 +20,8 @@ A full stack React Native mobile application (Android) that allows users to inst
 * [Technologies](#technologies)
 * [Brief](#brief)
 * [Challenges](#challenges)
-* [Running a ShakeIt demonstration](#runningAShakeItDemonstration)
-* [Example Data](#exampleData)
+* [Running a ShakeIt demonstration](#running%20a%20shakeIt%20Demonstration)
+* [Example Data](#example%20data)
 * [Test](#test)
 
 <br>
