@@ -72,7 +72,7 @@ Our initial brief was extremely ambitious, so as our team. Together through lear
 
 <!-- API find or make -->
 
-** Extensions **
+ Extensions 
 
 Some of the features currently in progress:
 
@@ -86,7 +86,7 @@ Some of the features currently in progress:
 - [x] Be able to add recipe to a shopping list
 - [ ] Be able to customize recipe
 
-** Super Extensions **
+ Super Extensions 
 
 - [x] Add a cloud (Firebase)
 - [ ] Create a shopping bot 
