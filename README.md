@@ -15,7 +15,7 @@ A full stack React Native mobile application (Android) that allows users to inst
 
 ## Contents 
 
-* [Idea](#idea)
+* [Ideassss](#idea)
 * [Showcase](#showcase)
 * [Technologies](#technologies)
 * [Brief](#brief)
