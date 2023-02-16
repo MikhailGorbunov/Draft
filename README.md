@@ -15,13 +15,13 @@ A full stack React Native mobile application (Android) that allows users to inst
 
 ## Contents 
 
-* [Ideassss](#idea)
+* [Ideas](#idea)
 * [Showcase](#showcase)
 * [Technologies](#technologies)
 * [Brief](#brief)
 * [Challenges](#challenges)
-* [Running a ShakeIt demonstration](#running a ShakeIt demonstration)
-* [Example Data](#example Data)
+* [Running a ShakeIt demonstration](#runningAShakeItDemonstration)
+* [Example Data](#exampleData)
 * [Test](#test)
 
 <br>
