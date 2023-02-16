@@ -41,7 +41,7 @@ These are the main technologies we used to contruct the project.
 * ![Java]
 * 
 * expo
-* Tailwind
+* ![Tailwind]
 <!-- * ![Spring] -->
 <!-- * ![Hibernate] -->
 <!-- * ![PostgreSQL] -->
@@ -126,5 +126,5 @@ Note: This setup tutorial assumes that you already have installed a package mana
 [IntelliJ_IDEA]: https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [ReactNative]:https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [stats]:https://img.shields.io/tokei/lines/github/bsmith/ShakeIt
-
+[Tailwind]:https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [Firebase]:https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg
